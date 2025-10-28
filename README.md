@@ -11,7 +11,7 @@
 	<a href="https://acpi.at/"><img src="https://acpi.at/88x31.gif" /></a>
 	<a href="https://caitlyn.moe/"><img src="https://caitlyn.moe/88x31.png" /></a>
 	<a href="https://uncutified.moe"><img src="https://uncutified.moe/88x31.gif" /></a>
-	<a href="https://elissa.moe/"><img src="https://elissa.moe/_astro/me.CXG_6iqd.png" /></a>
+	<a href="https://elissa.moe/"><img src="https://elissa.moe/88x31.png" /></a>
 	<a href="https://khcrysalis.dev/"><img src="https://khcrysalis.dev/88x31/me.png" /></a>
 	<a href="https://mugman.tech"><img src="https://mugman.tech/88x31/me.gif" /></a>
 	<a href="https://nin0.dev"><img src="https://files.nin0.dev/88x31.png" /></a>
