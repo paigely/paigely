@@ -27,6 +27,9 @@
 	<br>
 	<a href="https://lumina0machina.github.io/"><img src="https://lumina0machina.github.io/88x31.png" /></a>
 	<a href="https://vendicated.dev/"><img src="https://vendicated.dev/assets/88x31/me.gif" /></a>
+	<a href="https://cursor.com">
+		<img src="https://files.nin0.dev/88x31/cursor.png" width="88" height="31" />
+	</a>
 </kbd>
 
 </div>
