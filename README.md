@@ -1,4 +1,5 @@
 ## 💫 About me
+I make and design things with varying levels of usefulness
 * 🔭 I’m currently working on something
 * 🌱 I’m currently learning nothing
 
